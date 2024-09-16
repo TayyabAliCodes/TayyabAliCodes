@@ -7,7 +7,7 @@
     <a href="https://github.com/ZahidAliCodes" target="_blank">
         <img src="https://img.shields.io/badge/Follow%20on%20GitHub-%23ffffff?style=for-the-badge&logo=github&logoColor=%23000000" alt="Follow on GitHub"  height="30px" width="166px"/>
     </a>
-    <a href="https://www.youtube.com/@zahidalicoder" target="_blank">
+    <a href="https://www.youtube.com/@TayyabAlicodes" target="_blank">
         <img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=%23ffffff" alt="Subscribe on YouTube"  height="30px" width="166px"/>
     </a>
     <a href="https://www.upwork.com/freelancers/~01541c5010e2d55f41" target="_blank">
