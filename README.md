@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/tayyab-ali-71314430b/" target="_blank" >
         <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230965C1?style=for-the-badge&logo=linkedin&logoColor=%23ffffff" alt="Connect on LinkedIn"  height="30px" width="166px"/>
     </a>
-    <a href="https://github.com/ZahidAliCodes" target="_blank">
+    <a href="https://github.com/TayyabAliCodes" target="_blank">
         <img src="https://img.shields.io/badge/Follow%20on%20GitHub-%23ffffff?style=for-the-badge&logo=github&logoColor=%23000000" alt="Follow on GitHub"  height="30px" width="166px"/>
     </a>
     <a href="https://www.youtube.com/@TayyabAlicodes" target="_blank">
