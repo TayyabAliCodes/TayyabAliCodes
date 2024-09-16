@@ -1,7 +1,7 @@
 ![Add a heading (640 x 320 px) (1280 x 640 px)](https://github.com/user-attachments/assets/67b95de7-3ea1-4111-b174-6adcc789143f)
 
 <div>
-    <a href="https://www.linkedin.com/in/zahidalicodes/" target="_blank" >
+    <a href="https://www.linkedin.com/in/tayyab-ali-71314430b/" target="_blank" >
         <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230965C1?style=for-the-badge&logo=linkedin&logoColor=%23ffffff" alt="Connect on LinkedIn"  height="30px" width="166px"/>
     </a>
     <a href="https://github.com/ZahidAliCodes" target="_blank">
