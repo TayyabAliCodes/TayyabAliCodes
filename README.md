@@ -1,3 +1,4 @@
+Add a heading (640 x 320 px) (1280 x 640 px).png
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TayyabAliCodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TayyabAliCodes&theme=dark&hide_border=false)<br/>
