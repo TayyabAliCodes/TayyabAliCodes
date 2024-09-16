@@ -1,10 +1,1 @@
-Add a heading (640 x 320 px) (1280 x 640 px).png
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TayyabAliCodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TayyabAliCodes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TayyabAliCodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TayyabAliCodes&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Add a heading (640 x 320 px) (1280 x 640 px)](https://github.com/user-attachments/assets/3663bc61-ea57-4261-a63f-67b13761b84e)
