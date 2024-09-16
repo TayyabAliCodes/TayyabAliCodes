@@ -1,4 +1,5 @@
-![Add a heading (640 x 320 px) (1280 x 640 px)](https://github.com/user-attachments/assets/67b95de7-3ea1-4111-b174-6adcc789143f)
+<img width="1293" alt="Screenshot 2024-09-17 at 12 09 00 AM" src="https://github.com/user-attachments/assets/fb51f1d9-a086-48eb-b119-25e59585b547">
+
 
 <div>
     <a href="https://www.linkedin.com/in/tayyab-ali-71314430b/" target="_blank" >
