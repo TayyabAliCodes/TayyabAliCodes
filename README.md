@@ -12,10 +12,10 @@
     <a href="https://www.youtube.com/@TayyabAlicodes" target="_blank">
         <img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=%23ffffff" alt="Subscribe on YouTube"  height="30px" width="166px"/>
     </a>
-    <a href="https://www.upwork.com/freelancers/~01541c5010e2d55f41" target="_blank">
+    <a href="" target="_blank">
         <img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-%23108A00?style=for-the-badge&logo=upwork&logoColor=%23ffffff" alt="Hire Me on Upwork"  height="30px" width="166px"/>
     </a>
-    <a href="https://www.fiverr.com/tayab_develper?up_rollout=true" target="_blank">
+    <a href="https://www.fiverr.com/tayab_develper?public_mode=true" target="_blank">
         <img src="https://img.shields.io/badge/Hire%20Me%20on%20Fiverr-%231DBF73?style=for-the-badge&logo=fiverr&logoColor=%23ffffff" alt="Hire Me on Fiverr"  height="30px" width="166px"/>
     </a>
 </div>
